@@ -29,6 +29,8 @@
   <img style="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
   <img style="" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss">
   <img style="" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase">
+  <img src="https://img.shields.io/badge/pocketbase-%23039BE5.svg?style=for-the-badge&logo=pocketbase&color=ffffff&logoColor=000000" alt="pocketbase">
+
 </p>
 
 
