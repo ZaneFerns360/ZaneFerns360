@@ -5,7 +5,7 @@
 --->
 ---
 
-- 🔭 I’m currently working with Next js & Firebase  
+- 🔭 I’m currently working with Typescript
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with AI & ML
 - 💬 Feel free to ask me any question
