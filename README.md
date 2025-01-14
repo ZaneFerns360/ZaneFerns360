@@ -7,7 +7,7 @@
 - 🛠️ I'm passionate about low-level programming and hardware
 - 🤖 I love tinkering with Arduino and microcontrollers
 - 💭 Ask me about C++, build systems, or shell scripting
-- ⚡ Fun fact: Modified the acer linux kernel driver to work perfectly
+- ⚡ Fun fact: Modified the acer linux kernel driver to work perfectly for newer models
 ---
 ### Technical Skills
 #### Core Languages
