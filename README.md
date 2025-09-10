@@ -6,7 +6,7 @@
 - 🔭 I'm currently working on embedded systems projects
 - 🛠️ I'm passionate about low-level programming and hardware
 - 🤖 I love tinkering with Arduino and microcontrollers
-- 💭 Ask me about C++, build systems, or shell scripting
+- 💭 Currently learning Go
 - ⚡ Fun fact: Modified the acer linux kernel driver to work perfectly for newer models
 ---
 ### Technical Skills
