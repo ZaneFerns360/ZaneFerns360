@@ -29,7 +29,6 @@
 #### C++ Libraries
 <p>
   <img src="https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=boost&logoColor=white" alt="boost">
-  <img src="https://img.shields.io/badge/Eigen-00599C?style=for-the-badge&logo=cpp&logoColor=white" alt="eigen">
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="qt">
 </p>
 
